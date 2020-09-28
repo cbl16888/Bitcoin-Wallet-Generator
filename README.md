@@ -20,6 +20,7 @@ An Bitcoin wallet (Private Key, Public Key &amp; Bitcoin Address ) generator fro
   [+] `Bruteforce.py`
   
   ```
+  
 import os
 range1 = int(input("Input Starting Range :> "))
 range1 = int(input("Input Ending Range   :> "))
@@ -28,19 +29,24 @@ for x in range(range1,rang2):
 	print(str(x))
 	os.system(r'python wallet_generator.py '+ str(x))
 	x = x + 1
+	
 ```
   
   # It runs the Generator multiple times (inside your given range)
   
  ## contacts
- ``` Email : contact@yehanwasura.ml \ yehantest@gmail.com
-     Instagram : https://instagram.com/official.yehanwasura.lk
-     Discord : P4N70M#0651 
+ ``` 
+ Email : contact@yehanwasura.ml \ yehantest@gmail.com
+ Instagram : https://instagram.com/official.yehanwasura.lk
+ Discord : P4N70M#0651 
+ 
  ```
    
 # Donations
-``` Bitcoin : bc1qykc9chxvl75g3njmz7crrjj0uw59m5sxzzdsz7
-    Paypal : paypal.me/cyberrex599
-    Patreon : patreon.com/yehanwasura 
+``` 
+Bitcoin : bc1qykc9chxvl75g3njmz7crrjj0uw59m5sxzzdsz7
+Paypal : paypal.me/cyberrex599
+Patreon : patreon.com/yehanwasura 
+
 ```
  
