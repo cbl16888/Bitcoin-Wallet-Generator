@@ -1,6 +1,6 @@
 import os
 range1 = int(input("Input Starting Range :> "))
-range1 = int(input("Input Ending Range   :> "))
+range2 = int(input("Input Ending Range   :> "))
 
 for x in range(range1,rang2):
 	print(str(x))
